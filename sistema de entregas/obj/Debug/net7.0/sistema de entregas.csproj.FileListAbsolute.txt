@@ -1,0 +1,15 @@
+C:\Users\Zew-Developer\Desktop\C#\sistema de entregas\sistema de entregas\bin\Debug\net7.0\sistema de entregas.exe
+C:\Users\Zew-Developer\Desktop\C#\sistema de entregas\sistema de entregas\bin\Debug\net7.0\sistema de entregas.deps.json
+C:\Users\Zew-Developer\Desktop\C#\sistema de entregas\sistema de entregas\bin\Debug\net7.0\sistema de entregas.runtimeconfig.json
+C:\Users\Zew-Developer\Desktop\C#\sistema de entregas\sistema de entregas\bin\Debug\net7.0\sistema de entregas.dll
+C:\Users\Zew-Developer\Desktop\C#\sistema de entregas\sistema de entregas\bin\Debug\net7.0\sistema de entregas.pdb
+C:\Users\Zew-Developer\Desktop\C#\sistema de entregas\sistema de entregas\obj\Debug\net7.0\sistema de entregas.csproj.AssemblyReference.cache
+C:\Users\Zew-Developer\Desktop\C#\sistema de entregas\sistema de entregas\obj\Debug\net7.0\sistema de entregas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zew-Developer\Desktop\C#\sistema de entregas\sistema de entregas\obj\Debug\net7.0\sistema de entregas.AssemblyInfoInputs.cache
+C:\Users\Zew-Developer\Desktop\C#\sistema de entregas\sistema de entregas\obj\Debug\net7.0\sistema de entregas.AssemblyInfo.cs
+C:\Users\Zew-Developer\Desktop\C#\sistema de entregas\sistema de entregas\obj\Debug\net7.0\sistema de entregas.csproj.CoreCompileInputs.cache
+C:\Users\Zew-Developer\Desktop\C#\sistema de entregas\sistema de entregas\obj\Debug\net7.0\sistema de entregas.dll
+C:\Users\Zew-Developer\Desktop\C#\sistema de entregas\sistema de entregas\obj\Debug\net7.0\refint\sistema de entregas.dll
+C:\Users\Zew-Developer\Desktop\C#\sistema de entregas\sistema de entregas\obj\Debug\net7.0\sistema de entregas.pdb
+C:\Users\Zew-Developer\Desktop\C#\sistema de entregas\sistema de entregas\obj\Debug\net7.0\sistema de entregas.genruntimeconfig.cache
+C:\Users\Zew-Developer\Desktop\C#\sistema de entregas\sistema de entregas\obj\Debug\net7.0\ref\sistema de entregas.dll
